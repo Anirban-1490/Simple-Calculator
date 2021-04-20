@@ -1,0 +1,9 @@
+E:\c# app\Calculator\Calculator\bin\Release\Calculator.exe.config
+E:\c# app\Calculator\Calculator\bin\Release\Calculator.exe
+E:\c# app\Calculator\Calculator\bin\Release\Calculator.pdb
+E:\c# app\Calculator\Calculator\obj\Release\Calculator.Form1.resources
+E:\c# app\Calculator\Calculator\obj\Release\Calculator.Properties.Resources.resources
+E:\c# app\Calculator\Calculator\obj\Release\Calculator.csproj.GenerateResource.cache
+E:\c# app\Calculator\Calculator\obj\Release\Calculator.csproj.CoreCompileInputs.cache
+E:\c# app\Calculator\Calculator\obj\Release\Calculator.exe
+E:\c# app\Calculator\Calculator\obj\Release\Calculator.pdb
